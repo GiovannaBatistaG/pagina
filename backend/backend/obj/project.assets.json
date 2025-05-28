@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\pagina\\backend\\backend\\backend.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\pagina\\backend\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "C:\\Users\\Aluno\\Desktop\\pagina\\backend\\backend\\backend.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Downloads\\pagina\\backend\\backend\\backend.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Desktop\\pagina\\backend\\backend\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Downloads\\pagina\\backend\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
